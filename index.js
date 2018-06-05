@@ -1,4 +1,4 @@
-
+  var katzDeli = [];
 
 function takeANumber(katzDeliLine, newPerson) {
   var count = 0
